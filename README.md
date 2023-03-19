@@ -1,7 +1,7 @@
 # Using Notebooks for ETL of Semi-Structured Datasets
 
 ## Overview
-Learning about Notebooks (Jupyter), Pandas, Requests, and data visualization using semi structured data.
+Identifying workflows for visualization and reuse of semi-structured datasets.
 
 ## Abstract
 ...
