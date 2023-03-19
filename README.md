@@ -1,4 +1,4 @@
-# Using Notebooks for ETL of Semi-Structured Datasets
+# ETL of Semi-Structured Datasets Using Notebooks
 
 ## Overview
 Identifying workflows for visualization and reuse of semi-structured datasets.
