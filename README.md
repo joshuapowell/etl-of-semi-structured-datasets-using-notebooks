@@ -1,4 +1,4 @@
-# Data Exploration of "Research Stations in Antarctica"
+# Using Notebooks for ETL of Semi-Structured Datasets
 
 ## Overview
 Learning about Notebooks (Jupyter), Pandas, Requests, and data visualization using semi structured data.
