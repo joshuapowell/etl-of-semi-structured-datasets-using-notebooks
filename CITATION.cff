@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "J.I. Powell (2023) Using Notebooks for ETL of Semi Structured Datasets. A set of reusable data experiments and sample notebooks to extract, transform, and load semi structured datasets into a structured formats, DOI: 00.0000/00000000.0000.0000000"
+authors:
+- family-names: "Powell"
+  given-names: "J.I."
+  orcid: "https://orcid.org/0000-0002-0894-2399"
+title: "Using Notebooks for ETL of Semi Structured Datasets"
+version: 0.0.1
+doi: "00.0000/00000000.0000.0000000"
+date-released: 2023-03-19
+url: "https://github.com/joshuapowell/using-notebooks-for-etl-of-semi-structured-datasets"
